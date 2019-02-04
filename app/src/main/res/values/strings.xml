@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">movie</string>
+    <string name="mov">language</string>
+    <string-array name="lang">
+        <item>eng</item>
+        <item>mal</item>
+        <item>telngu</item>
+        <item>tamil</item>
+
+    </string-array>
+</resources>
